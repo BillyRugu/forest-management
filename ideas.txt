@@ -1,0 +1,5 @@
+Technology can be used to aid in forest management in various ways. These include:
+    (i) Use of drones to monitor forests and potential deforestation
+    (ii) Use of databases to store data on forests including regoional rate of deforestation,predominant tree species in various forests,
+     potential areas for planting new forests, etc
+     (iii) Using AI for research on how to maintain and improve forest cover
