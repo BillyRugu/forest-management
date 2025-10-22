@@ -5,4 +5,4 @@ while forest_cover > 500:
     forest_cover *= (1-rate) 
     year += 1
 print(f"Years to lose half the forest cover:{year}")
-print("This is the fifth commit")
+print("This is the sixth commit")
